@@ -98,6 +98,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/stats-output/stats.svg" alt="GiriPrasathGA's GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiriPrasathGA&theme=tokyonight" alt="GiriPrasathGA's Profile Summary" />
 </p>
 
