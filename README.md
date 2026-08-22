@@ -1,14 +1,7 @@
 <br clear="both">
 
-<div data-importer="border" align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20I'm%20GIRI%20PRASATH%20G%20A&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
-</div>
-
-<div align="center">
-  <h3>AI & Data Science Undergrad | LLM & Multi-Agent Systems Engineer 🚀</h3>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;LLM+%26+Multi-Agent+Systems;RAG+%26+Vector+Search+Developer;Full+Stack+AI+Applications" alt="Typing SVG" />
-  </p>
+<div data-importer="border">
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20I'am%20GIRI&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
 </div>
 
 ###
@@ -16,12 +9,18 @@
 <br clear="both">
 
 <div align="center">
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/output/pacman-contribution-graph.svg">
-</picture>
+  <h3>AI & Data Science Undergrad | LLM & Multi-Agent Systems Engineer 🚀</h3>
 </div>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
 
@@ -53,14 +52,11 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiriPrasathGA&theme=tokyonight" height="150" alt="profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiriPrasathGA&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiriPrasathGA&theme=tokyonight" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=GiriPrasathGA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=GiriPrasathGA&theme=tokyonight&margin-w=15&row=1" alt="trophy graph" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiriPrasathGA&theme=tokyo-night&hide_border=true" height="273" alt="activity-graph graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=GiriPrasathGA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/trophy-output/trophy.svg?theme=darkhub&column=8&row=9&margin-w=25&margin-h=7&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/activity-graph-output/activity-graph.svg?radius=15&theme=high-contrast&area=true&order=5" height="273" alt="activity-graph graph" />
 </div>
 
 ###
@@ -94,13 +90,15 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
   <img width="5" />
@@ -108,19 +106,21 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="35" alt="eclipseide logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="35" alt="eclipseide logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo" />
   <img width="5" />
