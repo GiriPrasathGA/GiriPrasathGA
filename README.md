@@ -26,6 +26,14 @@
 
 ---
 
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GiriPrasathGA&theme=tokyonight&margin-w=15&row=1" alt="GiriPrasathGA Trophies" />
+</div>
+
+---
+
 ### 🛠 Tech Stack & Skills
 
 #### 🤖 AI, LLM & Vector Search
@@ -90,12 +98,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GiriPrasathGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GiriPrasathGA's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GiriPrasathGA&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiriPrasathGA&theme=tokyonight" alt="GiriPrasathGA's Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GiriPrasathGA&theme=tokyonight&hide_border=true" alt="GiriPrasathGA's Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiriPrasathGA&theme=tokyonight" alt="GiriPrasathGA's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiriPrasathGA&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 <p align="center">
