@@ -1,13 +1,5 @@
 <br clear="both">
 
-<div data-importer="border">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20I'am%20GIRI%20PRASATH&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
-</div>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1ACD55&center=true&vCenter=true&width=600&lines=Hi+I'm+Giri+Prasath+G+A;AI+%26+Data+Science+Undergrad;LLM+%26+Multi-Agent+Systems+Engineer" alt="Typing SVG" />
