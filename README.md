@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <h3>AI & Data Science Undergrad | LLM & Multi-Agent Systems Engineer 🚀</h3>
+  <h3>AI & Data Science Undergrad | LLM & Multi-Agent Systems Engineer </h3>
 </div>
 
 ###
@@ -24,30 +24,6 @@
 
 ###
 
-<br clear="both">
-
-### 🎓 Education & Bio
-
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2023 – 2027) | **CGPA:** 7.78
-  - *Bannari Amman Institute of Technology*
-- 🔭 **Focus Area**: Building end-to-end AI applications, LLM agents, stateful workflows, RAG systems, and RESTful microservices.
-- 🌱 **Currently exploring**: Advanced Multi-Agent Collaboration, Voice AI, and Hybrid Vector Search Retrieval.
-- 💬 **Ask me about**: LangChain/LangGraph, CrewAI, FastAPI, Vector DBs (FAISS/ChromaDB), and DSA.
-- 🗣️ **Languages**: English, Tamil.
-
-###
-
-<br clear="both">
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **🤖 PlacementPal AI** | FastAPI, React, TypeScript, LangGraph, CrewAI, ChromaDB, MongoDB | AI-powered placement preparation platform featuring stateful multi-agent research, RAG document retrieval, & customized learning plans. |
-| **🎙️ SpeakClear AI** | Python, FastAPI, Whisper, Speech Analytics, LLMs | Speech analysis platform evaluating grammar, clarity, fluency, pitch variation, and providing personalized text/voice feedback. |
-| **💎 Multimodal Jewelry Recommendation** | React, Python, CLIP, FAISS, TrOCR | Multimodal vector search supporting text, image, and handwritten sketch queries with hybrid retrieval. |
-
-###
 
 <br clear="both">
 
