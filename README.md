@@ -86,47 +86,47 @@
 <br clear="both">
 
 <div data-importer="techs" align="center">
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="35" alt="eclipseide logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo" />
+  <img width="5" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
+  <img width="5" />
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="35" alt="eclipse logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo" />
 </div>
 
 ###
