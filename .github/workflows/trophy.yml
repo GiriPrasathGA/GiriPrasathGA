@@ -29,7 +29,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: darkhub
           max-cols: 8
-          max-rows: 9
+          max-rows: 8
           margin-width: 25
           margin-height: 7
           no-background: false
