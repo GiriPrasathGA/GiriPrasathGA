@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;LLM+%26+Multi-Agent+Systems;RAG+%26+Vector+Search+Developer;Full+Stack+AI+Applications" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/giri-prasath-ga)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GiriPrasathGA)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giriprasath7806@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giri-prasath-ga)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiriPrasathGA)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giriprasath7806@gmail.com)
 
 </div>
 
@@ -36,33 +36,39 @@
 
 ### 🛠 Tech Stack & Skills
 
-#### 🤖 AI, LLM & Data Science
+#### 🤖 AI, LLM & Vector Search
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy&theme=dark" alt="AI & Data Science Icons" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-2C2C2C?style=flat-square&logo=python&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=python&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/RAG-005571?style=flat-square&logo=meta&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=database&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/FAISS-008080?style=flat-square&logo=facebook&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge&logo=meta&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/FAISS-008080?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 #### 💻 Programming & Web Development
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,fastapi,react,ts,js,mongodb,postgres,html,css&theme=dark&perline=10" alt="Programming & Web Icons" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 #### 🛠️ Core CS & Dev Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" alt="Dev Tools Icons" />
-  </a>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/Object--Oriented_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -110,19 +116,17 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/giri-prasath-ga" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="45" height="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:giriprasath7806@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="45" height="45" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/GiriPrasathGA" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="45" height="45" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <div align="center">
   <br />
-  <sub>Designed with ❤️ by Giri Prasath G A | Bannari Amman Institute of Technology</sub>
+  <sub>Designed with ❤️ by Giri Prasath G A </sub>
 </div>
