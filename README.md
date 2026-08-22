@@ -90,12 +90,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiriPrasathGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GiriPrasathGA's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiriPrasathGA&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GiriPrasathGA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GiriPrasathGA's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GiriPrasathGA&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiriPrasathGA&theme=tokyonight&hide_border=true" alt="GiriPrasathGA's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=GiriPrasathGA&theme=tokyonight&hide_border=true" alt="GiriPrasathGA's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiriPrasathGA&theme=tokyo-night&hide_border=true" alt="GiriPrasathGA's Activity Graph" width="100%" />
 </p>
 
 ---
