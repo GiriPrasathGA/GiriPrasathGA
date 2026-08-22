@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20I'am%20GIRI&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20I'am%20GIRI%20PRASATH&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
 </div>
 
 ###
@@ -55,7 +55,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiriPrasathGA&theme=dark" height="150" alt="stats graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiriPrasathGA&theme=dark" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=GiriPrasathGA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=GiriPrasathGA&theme=darkhub&column=8&row=9&margin-w=25&margin-h=7&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+  <img src="https://trophy.ryglcloud.net/?username=GiriPrasathGA&theme=darkhub&column=8&row=9&margin-w=25&margin-h=7&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiriPrasathGA&theme=high-contrast&area=true" height="273" alt="activity-graph graph" />
 </div>
 

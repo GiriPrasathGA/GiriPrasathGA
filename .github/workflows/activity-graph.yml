@@ -22,11 +22,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: generate activity-graph.svg
-        uses: ashutosh00710/github-readme-activity-graph@v1.2.0
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          output_filepath: dist/activity-graph.svg
-          theme: high-contrast
+          username: ${{ github.repository_owner }}
+          options: theme=high-contrast&area=true
+          output_path: dist/activity-graph.svg
 
       - name: push activity-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
