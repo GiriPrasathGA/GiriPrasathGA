@@ -101,6 +101,28 @@
 
 ###
 
+<br clear="both">
+
+<div data-importer="socials" align="center">
+  <a href="https://linkedin.com/in/giri-prasath-ga" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:giriprasath7806@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/GiriPrasathGA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="40" alt="discord logo" />
+  </a>
+  <a href="https://github.com/GiriPrasathGA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="63" height="40" alt="hackerrank logo" />
+  </a>
+  <a href="https://github.com/GiriPrasathGA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="63" height="40" alt="spotify logo" />
+  </a>
+</div>
+
+###
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=GiriPrasathGA.GiriPrasathGA&left_color=black&right_color=gray" />
 </div>
