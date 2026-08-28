@@ -82,7 +82,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="63" height="40" alt="hackerrank logo" />
   </a>
   <a href="https://leetcode.com/u/giriprasathga/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="63" height="40" alt="leetcode logo" />
+    <img src="https://raw.githubusercontent.com/GiriPrasathGA/GiriPrasathGA/main/assets/leetcode.png" width="40" height="40" alt="leetcode logo" />
   </a>
   <a href="https://github.com/GiriPrasathGA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="63" height="40" alt="spotify logo" />
