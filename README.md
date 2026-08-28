@@ -59,7 +59,7 @@
 <div data-importer="stats" align="center">
   <img src="https://github-readme-stats-six-xi-11.vercel.app/api?username=GiriPrasathGA&theme=dark" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-six-xi-11.vercel.app/api/top-langs/?username=GiriPrasathGA&theme=dark" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=GiriPrasathGA&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GiriPrasathGA&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://trophy.ryglcloud.net/?username=GiriPrasathGA&theme=darkhub&column=8&row=9&margin-w=25&margin-h=7&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
